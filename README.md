@@ -1,0 +1,2 @@
+# AI-Enhanced-Compiler-for-Detecting-and-Correcting-Programming-Errors-
+Our project, AI-Enhanced Compiler for Detecting and Correcting Programming Errors, aims to identify, classify, and correct programming errors. It combines compiler techniques with machine learning methods like TF-IDF and Logistic Regression to analyze error messages and suggest fixes, making debugging faster and easier, especially for beginners.
